@@ -1,0 +1,11 @@
+p{
+    color: palevioletred;
+    display: flex;
+    padding-left: 100px;
+    font-size: 50px;
+}
+h2{
+    color: palevioletred;
+    font-size: 100px;
+    padding-left: 220px;
+}

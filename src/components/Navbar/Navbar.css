@@ -1,0 +1,60 @@
+.bg-body-tertiary{
+    background-color: aquamarine;
+}
+
+.me-auto{
+   
+    background-color: palevioletred;
+    
+}
+
+.cvnav{
+    display: flex;
+    width: 100px;
+    height: 30px;
+    font-size:40px ;
+    padding-top: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 40px;
+    color: palevioletred;
+    text-decoration: none;
+    padding-bottom: 30px;
+   
+    
+}
+.homenav{
+    display: flex;
+   
+    font-size:30px ;
+    padding-left: 35%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: aquamarine;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: inline-block;
+}
+.aboutnav{
+    display: flex;
+    
+    font-size:30px ;
+    padding-left: 10%;
+    color: aquamarine;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: inline-block;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.contactsnav{
+    display: flex;
+    
+    font-size:30px ;
+    padding-left: 10%;
+    color: aquamarine;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: inline-block;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
